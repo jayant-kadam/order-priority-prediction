@@ -80,7 +80,7 @@ Cloud Deployment
 Additional Machine Learning Models
 Advanced Filtering and Reporting
 
-Author
-Jayant Kadam
+Author<br>
+Jayant Kadam<br>
 Aspiring Data Analyst
 
