@@ -39,13 +39,29 @@ Seaborn
 Scikit-learn
 Random Forest Classifier
 CatBoost
+
 Project Structure
-├── app.py
-├── orderpriority_randomforest.pkl
-├── order_priority_target_encoder.pkl
-├── order_priority_feature_encoders.pkl
-├── rf_feature_columns.pkl
-├── order_priority_model.cbm
-├── cat_cols.joblib
-├── requirements.txt
-└── README.md
+-cat_cols.joblib
+-e-commerce
+-order_priority_feature_encoders.pkl
+-order_priority_model.cbm
+-order_priority_prediction_catboost
+-order_priority_prediction_random_forest
+-order_priority_target_encoder.pkl
+-orderpriority_randomforest.pkl (Download from Google Drive link mentioned below)
+-pred order priority
+-rf_catboost
+-rf_feature_columns.pkl
+
+Instructions for running the model.
+1. Download orderpriority_randomforest.pkl from below link.
+   https://drive.google.com/drive/folders/1truJ6yMuA5KKVZldqTCEmxBHxmGmLSex?usp=drive_link
+2. Download rest of the files from github repository
+   https://github.com/jayant-kadam/order-priority-prediction
+3. Create a project folder.Copy and paste all downloaded file in project folder.
+4. Run rf_catboost.py file using your preffered IDE.
+5. Upload pred order priority file & model will predict order priority and  create dashboard.
+6. To check order priority, input must be provided in .csv file.
+7. Input file must contain following features / cploumns:
+   ROW ID,	Order ID,	Order Date,	Ship Date, Ship Mode,	Customer ID,	Customer Name,	Segment,	City,	State,	Country,	Market,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Discount,	Shipping Cost,	Profit,	Order Year,	Order Month,	Order Day,	Ship Year,	Ship Month,	Ship Day,	Delivery Time,	Cost.
+
