@@ -40,18 +40,18 @@ Scikit-learn
 Random Forest Classifier
 CatBoost
 
-Project Structure
--cat_cols.joblib
--e-commerce
--order_priority_feature_encoders.pkl
--order_priority_model.cbm
--order_priority_prediction_catboost
--order_priority_prediction_random_forest
--order_priority_target_encoder.pkl
--orderpriority_randomforest.pkl (Download from Google Drive link mentioned below)
--pred order priority
--rf_catboost
--rf_feature_columns.pkl
+Project Structure contains:
+- cat_cols.joblib
+- e-commerce
+- order_priority_feature_encoders.pkl
+- order_priority_model.cbm
+- order_priority_prediction_catboost
+- order_priority_prediction_random_forest
+- order_priority_target_encoder.pkl
+- orderpriority_randomforest.pkl (Download from Google Drive link mentioned below)
+- pred order priority
+- rf_catboost
+- rf_feature_columns.pkl
 
 Instructions for running the model.
 1. Download orderpriority_randomforest.pkl from below link.
