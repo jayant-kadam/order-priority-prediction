@@ -65,3 +65,22 @@ Instructions for running the model.
 7. Input file must contain following features / cploumns:
    ROW ID,	Order ID,	Order Date,	Ship Date, Ship Mode,	Customer ID,	Customer Name,	Segment,	City,	State,	Country,	Market,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Discount,	Shipping Cost,	Profit,	Order Year,	Order Month,	Order Day,	Ship Year,	Ship Month,	Ship Day,	Delivery Time,	Cost.
 
+Machine Learning Models
+Random Forest
+A supervised ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
+
+CatBoost
+A gradient boosting algorithm that handles categorical features efficiently and often provides strong performance on structured datasets.
+
+Future Enhancements
+Feature Importance Visualization
+Model Performance Comparison
+Prediction Confidence Scores
+Cloud Deployment
+Additional Machine Learning Models
+Advanced Filtering and Reporting
+
+Author
+Jayant Kadam
+Aspiring Data Analyst
+
