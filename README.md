@@ -159,5 +159,5 @@ Cost
 
 <p>
 <strong>Jayant Kadam</strong><br>
-Aspiring Data Analyst
+Data Analyst
 </p>
