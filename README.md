@@ -94,18 +94,18 @@ through interactive dashboards, and download prediction outputs.
         </a>
 </li>
 
-    <li>Create a project folder and copy all downloaded files into it.</li>
+<li>Create a project folder and copy all downloaded files into it.</li>
 
-    <li>Run the <strong>rf_catboost.py</strong> file using your preferred IDE.</li>
+<li>Run the <strong>rf_catboost.py</strong> file using your preferred IDE.</li>
 
-    <li>
+<li>
         Upload the <strong>pred order priority</strong> CSV file and the model will predict
         Order Priority and generate an interactive dashboard.
-    </li>
+</li>
 
-    <li>Input data must be provided in <strong>.csv</strong> format.</li>
+<li>Input data must be provided in <strong>.csv</strong> format.</li>
 
-    <li>
+<li>
         The input CSV file must contain the following columns:
         <pre>
 ROW ID
@@ -139,7 +139,7 @@ Ship Day
 Delivery Time
 Cost
         </pre>
-    </li>
+</li>
 </ol>
 
 <h2>Machine Learning Models</h2>
