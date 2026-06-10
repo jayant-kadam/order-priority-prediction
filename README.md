@@ -12,6 +12,7 @@ through interactive dashboards, and download prediction outputs.
 
 <h3>🌲 Random Forest Model</h3>
 <ul>
+    <li>A supervised ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting.</li>
     <li>Predicts Order Priority from uploaded order data</li>
     <li>Displays prediction results</li>
     <li>Interactive dashboard with KPIs and visualizations</li>
@@ -20,6 +21,7 @@ through interactive dashboards, and download prediction outputs.
 
 <h3>🐈 CatBoost Model</h3>
 <ul>
+    <li>A gradient boosting algorithm that handles categorical features efficiently and often provides strong performance on structured datasets.</li>
     <li>Predicts Order Priority using CatBoost</li>
     <li>Displays prediction results</li>
     <li>Interactive dashboard with KPIs and visualizations</li>
@@ -141,20 +143,6 @@ Cost
         </pre>
 </li>
 </ol>
-
-<h2>Machine Learning Models</h2>
-
-<h3>Random Forest</h3>
-<p>
-A supervised ensemble learning algorithm that combines multiple decision trees
-to improve prediction accuracy and reduce overfitting.
-</p>
-
-<h3>CatBoost</h3>
-<p>
-A gradient boosting algorithm that handles categorical features efficiently and
-often provides strong performance on structured datasets.
-</p>
 
 <h2>Future Enhancements</h2>
 
