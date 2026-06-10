@@ -86,13 +86,13 @@ through interactive dashboards, and download prediction outputs.
         </a>
     </li>
 
-    <li>
+<li>
         Download the remaining files from the GitHub repository:
         <br>
         <a href="https://github.com/jayant-kadam/order-priority-prediction">
             GitHub Repository
         </a>
-    </li>
+</li>
 
     <li>Create a project folder and copy all downloaded files into it.</li>
 
