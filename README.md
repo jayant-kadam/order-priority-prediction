@@ -1,14 +1,18 @@
 📦 Order Priority Prediction App
+
 Overview
 
 This project is a Machine Learning-powered web application built using Streamlit that predicts Order Priority from e-commerce order data. The application allows users to upload a CSV file, generate predictions using both Random Forest and CatBoost models, compare results, visualize insights through interactive dashboards, and download prediction outputs.
 
 Features
+
 🌲 Random Forest Model
 Predicts Order Priority from uploaded order data
 Displays prediction results
 Interactive dashboard with KPIs and visualizations
 Download predictions as CSV
+
+
 🐈 CatBoost Model
 Predicts Order Priority using CatBoost
 Displays prediction results
