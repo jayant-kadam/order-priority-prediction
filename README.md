@@ -155,6 +155,13 @@ Cost
     <li>Advanced Filtering and Reporting</li>
 </ul>
 
+<h2>Prreview</h2>
+
+<h3>Home Page</h3>
+<p align="center">
+  <img src="screenshot/home-page.png" width="500">
+</p>
+
 <h2>Author</h2>
 
 <p>
