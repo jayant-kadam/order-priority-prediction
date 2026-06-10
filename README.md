@@ -77,7 +77,7 @@ through interactive dashboards, and download prediction outputs.
 
 <h2>Instructions for Running the Model</h2>
 
-<ol>
+<ul>
     <li>
         Download <strong>orderpriority_randomforest.pkl</strong> from the Google Drive link below:
         <br>
@@ -140,7 +140,7 @@ Delivery Time
 Cost
         </pre>
     </li>
-</ol>
+</ul>
 
 <h2>Machine Learning Models</h2>
 
