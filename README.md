@@ -182,7 +182,7 @@ Cost
   <img src="screenshot/kpi-dashboard.png" width="500">
 </p>
 
-<h3>Dashboard and Download Button</h3>
+<h3>Dashboard and Download Predictions Button</h3>
 <p align="center">
   <img src="screenshot/dashboard-download-button.png" width="500">
 </p>
