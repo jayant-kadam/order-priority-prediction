@@ -162,6 +162,31 @@ Cost
   <img src="screenshot/home-page.png" width="500">
 </p>
 
+<h3>Input Data Preview</h3>
+<p align="center">
+  <img src="screenshot/csv-data-preview.png" width="500">
+</p>
+
+<h3>Random Forest Prediction Preview</h3>
+<p align="center">
+  <img src="screenshot/rf-prediction.png" width="500">
+</p>
+
+<h3>CatBoost Prediction Preview</h3>
+<p align="center">
+  <img src="screenshot/catboost-prediction.png" width="500">
+</p>
+
+<h3>KPIs and Dashboard</h3>
+<p align="center">
+  <img src="screenshot/kpi-dashboard.png" width="500">
+</p>
+
+<h3>Dashboard and Download Button</h3>
+<p align="center">
+  <img src="screenshot/dashboard-download-button.png" width="500">
+</p>
+
 <h2>Author</h2>
 
 <p>
