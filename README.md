@@ -191,6 +191,6 @@ Cost
 
 <p>
 <strong>Jayant Kadam</strong><br>
-Data Analyst
+Data Analyst<br>
 https://www.linkedin.com/in/jayantkadam/
 </p>
