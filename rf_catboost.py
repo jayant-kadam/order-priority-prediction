@@ -30,14 +30,14 @@ st.write("Upload a CSV file to predict order priority using Random Forest and Ca
 # -------------------------------------------------------
 # LOAD MODELS AND ENCODERS
 # -------------------------------------------------------
-rf_model = joblib.load("orderpriority_randomforest.pkl")
-rf_target_encoder = joblib.load("order_priority_target_encoder.pkl")
-rf_feature_encoders = joblib.load("order_priority_feature_encoders.pkl")
-rf_features = joblib.load("rf_feature_columns.pkl")
+rf_model = joblib.load("model/orderpriority_randomforest.pkl")
+rf_target_encoder = joblib.load("model/order_priority_target_encoder.pkl")
+rf_feature_encoders = joblib.load("model/order_priority_feature_encoders.pkl")
+rf_features = joblib.load("model/rf_feature_columns.pkl")
 
 catboost_model = CatBoostClassifier()
-catboost_model.load_model("order_priority_model.cbm")
-catboost_cat_cols = joblib.load("cat_cols.joblib")
+catboost_model.load_model("model/order_priority_model.cbm")
+catboost_cat_cols = joblib.load("model/cat_cols.joblib")
 
 # -------------------------------------------------------
 # FILE UPLOADER
