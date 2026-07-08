@@ -8,6 +8,16 @@ generate predictions using both Random Forest and CatBoost models, compare resul
 through interactive dashboards, and download prediction outputs.
 </p>
 
+<h2>Problem Statement</h2>
+<p>
+Businesses process thousands of customer orders every day, making it difficult to manually assign the correct order priority. Incorrect prioritization can lead to delayed deliveries, inefficient resource allocation, and reduced customer satisfaction. An automated solution is needed to accurately predict order priority based on historical order data.
+</p>
+
+<h2>Solution</h2>
+<p>
+This project provides a Machine Learning-based solution that predicts order priority using Random Forest and CatBoost models. Built with Streamlit, the application allows users to upload order data, generate predictions, visualize insights through interactive dashboards, compare model outputs, and download prediction results for further analysis.
+</p>
+
 <h2>Features</h2>
 
 <h3>🌲 Random Forest Model</h3>
